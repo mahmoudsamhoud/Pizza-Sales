@@ -1,5 +1,6 @@
 # Pizza Sales Analysis
 Analyzing sales data for one pizza store over one year. 
+For project page, click<a href="https://mahmoudsamhoud.github.io/Portfolio/assets/Projects/Pr01-data/pr01-data.html">here</a>
 
 <img src='https://github.com/mahmoudsamhoud/Pizza-Sales/blob/main/images/pizza-slice.png' width='200'>
 
